@@ -41,7 +41,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <option name="RESET_MODE" value="SOFT" />
+=======
+>>>>>>> 32ec6f3103449a2d61a636d94a41f91d017bd983
   </component>
   <component name="ProjectId" id="1cg2u8U44hLIOfXZEvAVXoQdY4W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
